@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pasindu Kumarasinghe</h1>
-<h3 align="center">🌟 Passionate Frontend Developer from Sri Lanka 🌟</h3>
+
 
 <p align="center">
   <img src="https://www.gifcen.com/wp-content/uploads/2023/07/hacker-gif-8.gif" alt="Hacker Animation" width="300" height="200" />
